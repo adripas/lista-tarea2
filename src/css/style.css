@@ -1,0 +1,60 @@
+*{
+   margin: 0;
+   padding: 0; 
+}
+
+h1{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
+  font-weight: 500;
+                                                                                                          
+}
+
+.input {
+   /* display: block;*/
+   width: 200px;
+   margin-right:20px;
+}
+
+
+.main {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100%;
+    width: 100%;
+
+}
+.write_tarea{
+    align-items: center;
+    background-color: beige;
+    justify-content: center;
+    display: flex;
+    height: 50px;
+    width: 300px;
+    margin-top: 175px;
+    margin-left: 50%;
+    
+
+}
+
+.contenedor_tarea{
+    background-color: aliceblue;
+    box-sizing: border-box;
+    display: flex;
+    height: 300px;
+    width: 300px;
+    margin-left: 50%;
+    padding: 40px 0 10px 10px ;
+   
+      
+}
+
+.tarea{
+    display: flex;
+    border: 1px solid grey;
+    height: 25px;
+    width:200px ;
+    margin-right: 30px;
+    
+
+}
