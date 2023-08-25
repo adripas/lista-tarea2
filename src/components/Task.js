@@ -17,7 +17,7 @@ e.preventDefault();
      text: task
   });*/
 
-  console.log("hola");
+  console.log("hola mundo");
 
 }
 
